@@ -1,0 +1,8 @@
+com\ibnsina\testcases\PageObjects\LoginPage.class
+com\ibnsina\testcases\Utils\PropertyUtils.class
+com\ibnsina\testcases\Base\BasePage.class
+com\ibnsina\testcases\PageObjects\HomePage.class
+com\ibnsina\testcases\TestCases\dummy.class
+com\ibnsina\testcases\Utils\ConfigUtils.class
+com\ibnsina\testcases\Driverfactory\factory.class
+com\ibnsina\testcases\Base\BaseTest.class
